@@ -1,4 +1,4 @@
-# Importing-and-transforming-data-project
+# Import-and-transform-data-project
 
 
 'IMPORT AND TRANSFORM DATA' project VIA POWER QUERY. Some key points are
